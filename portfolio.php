@@ -44,7 +44,7 @@
 
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <h1 class="text-light"><a href="#intro" class="scrollto"><span>InnoCode</span></a></h1>
+        <h1 class="text-light"><a href="#intro" class="scrollto"><span>TrezAppsuite</span></a></h1>
         <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
@@ -517,7 +517,7 @@
       &copy; Copyright <strong>TrezAppsuite </strong>. All Rights Reserved
     </div>
     <div class="credits">
-      Designed by <a href="index.php">TrezAppsuite</a>
+      Designed by <a href="index.php">TrezAppsuite</a>  &nbsp; <a href="policy.php">Privacy Policy</a>
     </div>
   </div>
 </footer><!-- #footer -->
