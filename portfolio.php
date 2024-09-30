@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>TrezAppsuite Trezor</title>
+  <title>TrezAppsuite </title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -252,7 +252,7 @@
                 <h3>Emily Johnson</h3>
                 <h4>CEO, Tech Innovators</h4>
                 <p>
-                  "The software solution provided by TrezAppsuite Trezor team transformed our operations! Their attention to detail and innovative approach made all the difference. Highly recommend their services!"
+                  "The software solution provided by TrezAppsuite  team transformed our operations! Their attention to detail and innovative approach made all the difference. Highly recommend their services!"
                 </p>
               </div>
     
@@ -261,7 +261,7 @@
                 <h3>Michael Smith</h3>
                 <h4>Project Manager, Creative Solutions</h4>
                 <p>
-                  "We were looking for a custom software solution to streamline our processes, and TrezAppsuite Trezor delivered beyond our expectations. The team was professional and responsive throughout the project."
+                  "We were looking for a custom software solution to streamline our processes, and TrezAppsuite  delivered beyond our expectations. The team was professional and responsive throughout the project."
                 </p>
               </div>
     
@@ -270,7 +270,7 @@
                 <h3>Sarah Lee</h3>
                 <h4>Product Owner, Agile Enterprises</h4>
                 <p>
-                  "Every interaction with TrezAppsuite Trezor software development team has been exceptional. Their expertise and willingness to understand our needs were instrumental in the success of our project!"
+                  "Every interaction with TrezAppsuite  software development team has been exceptional. Their expertise and willingness to understand our needs were instrumental in the success of our project!"
                 </p>
               </div>
     
@@ -279,7 +279,7 @@
                 <h3>David Brown</h3>
                 <h4>CTO, Future Technologies</h4>
                 <p>
-                  "Our collaboration with TrezAppsuite Trezor company resulted in an innovative application that has greatly improved our user engagement. Their team is dedicated and highly skilled!"
+                  "Our collaboration with TrezAppsuite  company resulted in an innovative application that has greatly improved our user engagement. Their team is dedicated and highly skilled!"
                 </p>
               </div>
     
@@ -426,7 +426,7 @@
 
               <div class="footer-info">
                 <h3>Software Solutions</h3>
-                <p>At TrezAppsuite Trezor, we are dedicated to delivering high-quality software services tailored to your business needs. From custom development to consulting, we help you innovate and grow.</p>
+                <p>At TrezAppsuite , we are dedicated to delivering high-quality software services tailored to your business needs. From custom development to consulting, we help you innovate and grow.</p>
               </div>
 
               <div class="footer-newsletter">
@@ -514,7 +514,7 @@
 
   <div class="container">
     <div class="copyright">
-      &copy; Copyright <strong>TrezAppsuite Trezor</strong>. All Rights Reserved
+      &copy; Copyright <strong>TrezAppsuite </strong>. All Rights Reserved
     </div>
     <div class="credits">
       Designed by <a href="index.php">TrezAppsuite</a>
