@@ -923,7 +923,7 @@
       &copy; Copyright <strong>TrezAppsuite </strong>. All Rights Reserved
     </div>
     <div class="credits">
-      Designed by <a href="index.php">TrezAppsuite</a>
+      Designed by <a href="index.php">TrezAppsuite</a>  &nbsp; <a href="policy.php">Privacy Policy</a>
     </div>
   </div>
 </footer><!-- #footer -->
